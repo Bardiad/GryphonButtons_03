@@ -18,8 +18,6 @@
 
 -(void)tapped;
 
--(void)swipedRight;
-
 -(void)longPress;
 
 -(NSString *)description;
